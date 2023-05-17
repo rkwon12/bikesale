@@ -1,0 +1,26 @@
+Click bike sale dashboard.xlsx to download excel file
+
+
+Summary:
+
+
+The goal of this case study is to analyze data from bike sales by using all steps of the data analysis process. The business task is to identify patterns and trends amongst customers who chose to buy a bike versus who chose to not buy a bike. I used factors such as age, region, marital status, commute length, education level, and average income to gain insight on why a customer may buy a bike. These insights could be used by potential marketing teams to increase bike sales by targeting specific audiences.
+
+Task:
+Used bike purchasing data to highlight trends in factors such as age, commute distance, average income, education level, region, and marital status. Used these factors to see how they might influence the customer to buy a bike
+Downloaded data and created duplicate right away
+Cleaned data-removed duplicates, standardized all amounts to currency 
+Manipulated data-created age brackets to make visualizations more clear 
+Created 3 pivot tables for gender/salary, commute, and age brackets
+Built dashboard using 3 tables
+Added slicer that applies to all of the visualizations for marital status, region, and education
+
+
+Findings:
+Middle aged individuals between ages 31-54 are more likely to purchase a bike.
+Single men and married women are more likely to purchase a bike than married men and single women. 
+Individuals in North America are more likely to purchase bike than in any other region
+Likelihood of buying bike goes down with the increase of commute length
+Individuals who did not finish high school had the lowest likelihood of purchasing a bike than any other group
+
+
